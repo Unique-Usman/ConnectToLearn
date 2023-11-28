@@ -3,24 +3,18 @@ import React from 'react';
 const MessageParser = ({ children, actions }) => {
 
   const parse = async (message) => {
-    let botResponse = { bot_message: "Sorry, there was some error." }
+    const userID = sessionStorage.getItem('userID');
+    const model = sessionStorage.getItem('model');
 
-    // send a message to the server and update botResponse with the response
-    try {
-      const response = await fetch('/message', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ user_message: message }),
-      });
-      botResponse = await response.json();
-    } catch (error) {
-      console.error('Error:', error);
+    // check if model option selected
+    if (model === null) {
+      actions.handleOptionNotSelected();
     }
-
-    // call the handleMessage function from the ActionProvider component
-    actions.handleMessage(botResponse.bot_message);
+    else {
+      let url = `/api/${userID}/${model}`;
+      // call the handleMessage function from the ActionProvider component
+      actions.handleMessage(message, url);
+    }
   };
 
   return (

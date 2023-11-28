@@ -1,6 +1,8 @@
+flask-server/__pycache__/
 flask-server/config.py
 models/config.py
-flask-server/__pycache__/
-.chroma/
-*config.py
-config*
+models/langsmith/config.py
+models/model1/config.py
+models/model4/config.py
+models/ProjectRecommender/config.py
+models/testcases/config.py

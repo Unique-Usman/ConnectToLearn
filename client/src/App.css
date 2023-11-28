@@ -8,13 +8,17 @@
 }
 
 .react-chatbot-kit-chat-container {
-  width: 80vw;
-  margin-left: 150px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .react-chatbot-kit-chat-inner-container {
   height: 90vh;
+  width: 80%;
   background-color: #282c34;
+  margin: auto;
 }
 
 .react-chatbot-kit-chat-header {
@@ -33,4 +37,8 @@
 
 .react-chatbot-kit-chat-bot-message-container {
   margin: 30px 0;
+}
+
+.react-chatbot-kit-chat-input-container {
+  width: 80%;
 }

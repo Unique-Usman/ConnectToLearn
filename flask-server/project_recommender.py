@@ -90,15 +90,18 @@ def llm_chain_factory(template):
     )
     return llm_chain
 
+def create_llm_chain():
+    template = prompt_factory()
+    llm_chain = llm_chain_factory(template)
+    return llm_chain
+
 def main():
+    llm_chain = create_llm_chain()
     print("Bot: Hello there! I am ConnectToLearn, and I am here to help you make the best of your projects. I am designed to leverage your completed courses, performance records, and areas of curiosity to suggest relevant projects. I can also connect you with the right people who can help validate and execute these projects, including faculty members, founders, NGOs, and organizations. Do you already have a specific project idea or research topic in mind? If yes, please provide a brief description.\n")
     while True:
         user_input = input("User: ") 
         answer = llm_chain.predict(human_input=user_input)
         print("Bot: " + answer + "\n")
-
-template = prompt_factory()
-llm_chain = llm_chain_factory(template)
 
 if __name__ == "__main__":
     main()

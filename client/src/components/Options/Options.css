@@ -1,0 +1,16 @@
+.options-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.option-button {
+  margin: 10px;
+  border-radius: 25px;
+  padding: 10px;
+  border-color: blue;
+  background: transparent;
+  text-align: center;
+  color: white;
+  cursor: pointer;
+}

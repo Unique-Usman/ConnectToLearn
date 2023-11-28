@@ -1,0 +1,130 @@
+2023-08-02 14:14:21,465 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-02 14:14:21,465 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-02 14:14:21,473 [INFO]  * Restarting with watchdog (inotify)
+2023-08-02 14:14:24,765 [WARNING]  * Debugger is active!
+2023-08-02 14:14:24,765 [INFO]  * Debugger PIN: 126-360-694
+2023-08-02 14:14:34,308 [INFO] 127.0.0.1 - - [02/Aug/2023 14:14:34] "POST /api/4f6c027d-fce6-47c1-95c2-82cc7100654b/leave HTTP/1.1" 200 -
+2023-08-02 14:14:45,057 [INFO] 127.0.0.1 - - [02/Aug/2023 14:14:45] "POST /api/4f6c027d-fce6-47c1-95c2-82cc7100654b/message HTTP/1.1" 200 -
+2023-08-09 13:45:16,420 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-09 13:45:16,421 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-09 13:45:16,433 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 13:45:18,260 [WARNING]  * Debugger is active!
+2023-08-09 13:45:18,385 [INFO]  * Debugger PIN: 130-586-478
+2023-08-09 13:47:01,422 [INFO] 127.0.0.1 - - [09/Aug/2023 13:47:01] "POST /api/c0380af7-e611-454b-8e7d-bfcf3419725d/leave HTTP/1.1" 200 -
+2023-08-09 14:05:35,795 [INFO] 127.0.0.1 - - [09/Aug/2023 14:05:35] "POST /api/c0380af7-e611-454b-8e7d-bfcf3419725d/leave HTTP/1.1" 200 -
+2023-08-09 14:06:05,114 [INFO] 127.0.0.1 - - [09/Aug/2023 14:06:05] "POST /api/c0380af7-e611-454b-8e7d-bfcf3419725d/leave HTTP/1.1" 200 -
+2023-08-09 14:22:10,354 [INFO] 127.0.0.1 - - [09/Aug/2023 14:22:10] "POST /api/c0380af7-e611-454b-8e7d-bfcf3419725d/leave HTTP/1.1" 200 -
+2023-08-09 14:22:16,536 [INFO] 127.0.0.1 - - [09/Aug/2023 14:22:16] "POST /api/c0380af7-e611-454b-8e7d-bfcf3419725d/leave HTTP/1.1" 200 -
+2023-08-09 14:23:04,131 [INFO] 127.0.0.1 - - [09/Aug/2023 14:23:04] "[33mPOST /api/c0380af7-e611-454b-8e7d-bfcf3419725d/project_recommender HTTP/1.1[0m" 404 -
+2023-08-09 14:23:19,965 [INFO] 127.0.0.1 - - [09/Aug/2023 14:23:19] "POST /api/c0380af7-e611-454b-8e7d-bfcf3419725d/leave HTTP/1.1" 200 -
+2023-08-09 14:25:31,236 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 14:25:31,237 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 14:25:31,238 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 14:25:32,173 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 14:25:34,206 [WARNING]  * Debugger is active!
+2023-08-09 14:25:34,207 [INFO]  * Debugger PIN: 130-586-478
+2023-08-09 14:25:37,857 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 14:25:37,861 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 14:25:39,373 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 14:25:41,010 [WARNING]  * Debugger is active!
+2023-08-09 14:25:41,011 [INFO]  * Debugger PIN: 130-586-478
+2023-08-09 14:26:03,279 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 14:26:03,280 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 14:26:03,284 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 14:26:04,576 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 14:27:56,375 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-09 14:27:56,375 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-09 14:27:56,379 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 14:27:57,950 [WARNING]  * Debugger is active!
+2023-08-09 14:27:57,951 [INFO]  * Debugger PIN: 130-586-478
+2023-08-09 14:28:02,271 [INFO] 127.0.0.1 - - [09/Aug/2023 14:28:02] "POST /api/97ed36ff-31d8-4573-b248-3932db6dc64c/leave HTTP/1.1" 200 -
+2023-08-09 14:28:19,571 [INFO] 127.0.0.1 - - [09/Aug/2023 14:28:19] "POST /api/97ed36ff-31d8-4573-b248-3932db6dc64c/project_recommender HTTP/1.1" 200 -
+2023-08-09 14:30:33,700 [INFO] 127.0.0.1 - - [09/Aug/2023 14:30:33] "POST /api/97ed36ff-31d8-4573-b248-3932db6dc64c/leave HTTP/1.1" 200 -
+2023-08-09 14:30:36,616 [INFO] 127.0.0.1 - - [09/Aug/2023 14:30:36] "POST /api/97ed36ff-31d8-4573-b248-3932db6dc64c/leave HTTP/1.1" 200 -
+2023-08-09 14:33:02,027 [INFO] 127.0.0.1 - - [09/Aug/2023 14:33:02] "POST /api/137efa4a-306c-4f4f-bd24-e18c1f59b5c8/leave HTTP/1.1" 200 -
+2023-08-09 14:33:11,013 [INFO] 127.0.0.1 - - [09/Aug/2023 14:33:11] "POST /api/137efa4a-306c-4f4f-bd24-e18c1f59b5c8/leave HTTP/1.1" 200 -
+2023-08-09 14:33:14,619 [INFO] 127.0.0.1 - - [09/Aug/2023 14:33:14] "POST /api/27eeafb0-90aa-4b8d-b3db-ffdcc8f5952c/leave HTTP/1.1" 200 -
+2023-08-09 14:33:20,880 [INFO] 127.0.0.1 - - [09/Aug/2023 14:33:20] "POST /api/913f8a35-9b4c-4ed7-bfe2-e9c7b8618fe7/leave HTTP/1.1" 200 -
+2023-08-09 18:41:48,936 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-09 18:41:48,937 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-09 18:41:48,961 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 18:41:53,160 [WARNING]  * Debugger is active!
+2023-08-09 18:41:53,411 [INFO]  * Debugger PIN: 143-409-846
+2023-08-09 18:46:24,279 [INFO] 127.0.0.1 - - [09/Aug/2023 18:46:24] "POST /api/fb816754-4400-4f05-ac4d-4259d8a4cbb2/project_recommender HTTP/1.1" 200 -
+2023-08-09 18:47:42,905 [INFO] 127.0.0.1 - - [09/Aug/2023 18:47:42] "POST /api/fb816754-4400-4f05-ac4d-4259d8a4cbb2/project_recommender HTTP/1.1" 200 -
+2023-08-09 19:23:42,591 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-09 19:23:42,593 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-09 19:23:42,611 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 19:23:46,261 [WARNING]  * Debugger is active!
+2023-08-09 19:23:46,262 [INFO]  * Debugger PIN: 143-409-846
+2023-08-09 19:29:26,379 [INFO] 127.0.0.1 - - [09/Aug/2023 19:29:26] "POST /api/06267491-3488-4fd0-8420-5feca5b4711a/leave HTTP/1.1" 200 -
+2023-08-09 19:29:46,267 [INFO] 127.0.0.1 - - [09/Aug/2023 19:29:46] "[35m[1mPOST /api/06267491-3488-4fd0-8420-5feca5b4711a/mentor_recommender HTTP/1.1[0m" 500 -
+2023-08-09 19:30:03,089 [INFO] 127.0.0.1 - - [09/Aug/2023 19:30:03] "POST /api/99b53a2e-4ff9-48d3-8b1d-d9aa5af975ea/leave HTTP/1.1" 200 -
+2023-08-09 19:48:41,244 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-09 19:48:41,245 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-09 19:48:41,262 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 19:48:44,737 [WARNING]  * Debugger is active!
+2023-08-09 19:48:44,738 [INFO]  * Debugger PIN: 143-409-846
+2023-08-09 19:49:50,701 [INFO] 127.0.0.1 - - [09/Aug/2023 19:49:50] "POST /api/06267491-3488-4fd0-8420-5feca5b4711a/mentor_recommender HTTP/1.1" 200 -
+2023-08-09 19:50:43,759 [INFO] 127.0.0.1 - - [09/Aug/2023 19:50:43] "POST /api/06267491-3488-4fd0-8420-5feca5b4711a/project_recommender HTTP/1.1" 200 -
+2023-08-09 19:51:16,563 [INFO] 127.0.0.1 - - [09/Aug/2023 19:51:16] "POST /api/06267491-3488-4fd0-8420-5feca5b4711a/project_recommender HTTP/1.1" 200 -
+2023-08-09 19:51:36,361 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 19:51:36,362 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 19:51:36,367 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 19:51:37,858 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 19:51:41,557 [WARNING]  * Debugger is active!
+2023-08-09 19:51:41,557 [INFO]  * Debugger PIN: 143-409-846
+2023-08-09 19:51:45,478 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 19:51:45,483 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/app.py', reloading
+2023-08-09 19:51:46,333 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 19:55:17,699 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-09 19:55:17,699 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-09 19:55:17,706 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 19:55:21,236 [WARNING]  * Debugger is active!
+2023-08-09 19:55:21,237 [INFO]  * Debugger PIN: 143-409-846
+2023-08-09 19:55:22,358 [INFO] 127.0.0.1 - - [09/Aug/2023 19:55:22] "POST /api/06267491-3488-4fd0-8420-5feca5b4711a/leave HTTP/1.1" 200 -
+2023-08-09 19:56:22,913 [INFO] 127.0.0.1 - - [09/Aug/2023 19:56:22] "POST /api/06267491-3488-4fd0-8420-5feca5b4711a/mentor_recommender HTTP/1.1" 200 -
+2023-08-09 20:02:42,940 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/config.py', reloading
+2023-08-09 20:02:42,941 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/config.py', reloading
+2023-08-09 20:02:42,942 [INFO]  * Detected change in '/home/malhaar/ConnectToLearn/flask-server/config.py', reloading
+2023-08-09 20:02:44,328 [INFO]  * Restarting with watchdog (inotify)
+2023-08-09 20:02:47,580 [WARNING]  * Debugger is active!
+2023-08-09 20:02:47,581 [INFO]  * Debugger PIN: 143-409-846
+2023-08-09 20:16:45,920 [INFO] 127.0.0.1 - - [09/Aug/2023 20:16:45] "POST /api/06267491-3488-4fd0-8420-5feca5b4711a/project_recommender HTTP/1.1" 200 -
+2023-08-09 20:17:38,093 [INFO] 127.0.0.1 - - [09/Aug/2023 20:17:38] "POST /api/06267491-3488-4fd0-8420-5feca5b4711a/mentor_recommender HTTP/1.1" 200 -
+2023-08-09 20:18:28,783 [INFO] 127.0.0.1 - - [09/Aug/2023 20:18:28] "POST /api/06267491-3488-4fd0-8420-5feca5b4711a/leave HTTP/1.1" 200 -
+2023-08-09 20:19:14,989 [INFO] 127.0.0.1 - - [09/Aug/2023 20:19:14] "POST /api/33fcb2c8-e6d3-499d-9946-48ee20b47974/leave HTTP/1.1" 200 -
+2023-08-09 20:19:39,270 [INFO] 127.0.0.1 - - [09/Aug/2023 20:19:39] "POST /api/33fcb2c8-e6d3-499d-9946-48ee20b47974/leave HTTP/1.1" 200 -
+2023-08-09 20:21:14,556 [INFO] 127.0.0.1 - - [09/Aug/2023 20:21:14] "POST /api/33fcb2c8-e6d3-499d-9946-48ee20b47974/leave HTTP/1.1" 200 -
+2023-08-09 20:22:03,013 [INFO] 127.0.0.1 - - [09/Aug/2023 20:22:03] "POST /api/33fcb2c8-e6d3-499d-9946-48ee20b47974/leave HTTP/1.1" 200 -
+2023-08-09 20:22:58,530 [INFO] 127.0.0.1 - - [09/Aug/2023 20:22:58] "POST /api/33fcb2c8-e6d3-499d-9946-48ee20b47974/leave HTTP/1.1" 200 -
+2023-08-16 12:24:44,156 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-16 12:24:44,156 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-16 12:24:44,168 [INFO]  * Restarting with watchdog (inotify)
+2023-08-16 12:24:46,085 [WARNING]  * Debugger is active!
+2023-08-16 12:24:46,206 [INFO]  * Debugger PIN: 351-170-050
+2023-08-16 12:29:47,643 [INFO] 127.0.0.1 - - [16/Aug/2023 12:29:47] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/project_recommender HTTP/1.1" 200 -
+2023-08-16 12:30:27,868 [INFO] 127.0.0.1 - - [16/Aug/2023 12:30:27] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 12:36:09,557 [INFO] 127.0.0.1 - - [16/Aug/2023 12:36:09] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 12:37:49,736 [INFO] 127.0.0.1 - - [16/Aug/2023 12:37:49] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 12:44:18,912 [INFO] 127.0.0.1 - - [16/Aug/2023 12:44:18] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 12:44:47,903 [INFO] 127.0.0.1 - - [16/Aug/2023 12:44:47] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/project_recommender HTTP/1.1" 200 -
+2023-08-16 12:49:52,822 [INFO] 127.0.0.1 - - [16/Aug/2023 12:49:52] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 12:57:06,794 [INFO] 127.0.0.1 - - [16/Aug/2023 12:57:06] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:02:20,350 [INFO] 127.0.0.1 - - [16/Aug/2023 13:02:20] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:12:33,477 [INFO] 127.0.0.1 - - [16/Aug/2023 13:12:33] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:17:06,170 [INFO] 127.0.0.1 - - [16/Aug/2023 13:17:06] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:20:20,187 [INFO] 127.0.0.1 - - [16/Aug/2023 13:20:20] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:21:16,225 [INFO] 127.0.0.1 - - [16/Aug/2023 13:21:16] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:22:23,023 [INFO] 127.0.0.1 - - [16/Aug/2023 13:22:23] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:22:40,459 [INFO] 127.0.0.1 - - [16/Aug/2023 13:22:40] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/project_recommender HTTP/1.1" 200 -
+2023-08-16 13:24:06,472 [INFO] 127.0.0.1 - - [16/Aug/2023 13:24:06] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:24:55,936 [INFO] 127.0.0.1 - - [16/Aug/2023 13:24:55] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
